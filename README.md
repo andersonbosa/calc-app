@@ -3,6 +3,11 @@
 - [x] calculator app, idea from [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas#tier-1-beginner-projects)
 - demo: https://cryptic-tor-88012.herokuapp.com/
 
+<!-- 
+release help by:
+  https://betterprogramming.pub/deploying-a-vue-js-app-to-heroku-d16f95c07a04
+-->
+
 ---
 
 ### Generated with `@vue/cli 4.5.13`
