@@ -1,6 +1,7 @@
 # calc-app  <span id="top" />
 
 - [x] calculator app, idea from [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas#tier-1-beginner-projects)
+- demo: https://cryptic-tor-88012.herokuapp.com/
 
 ---
 
